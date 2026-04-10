@@ -1,0 +1,1 @@
+New Git local file1 has been created
