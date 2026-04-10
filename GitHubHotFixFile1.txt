@@ -1,3 +1,3 @@
 Created a new file in GitHub
-Edited the file in GitHub Hotfix 1
+Edited the file in GitHub Hotfix 1, It is still under review
 Edited the file in Git local repo
