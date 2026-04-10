@@ -1,1 +1,2 @@
 Feature file 1 text
+second line added
